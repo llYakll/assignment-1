@@ -10,6 +10,11 @@ Improved semantic structure of HTML, Consolidate CSS Selectors
 -HTML
 -CSS
 
+##Preview
+![Alt text](assets/images/Screenshot_1.png)
+
+![Alt text](assets/images/Screenshot_2.png)
+
 ##Contributions:
 W3 Schools for reference information regarding semantic and non-semantic elements. @ https://www.w3schools.com/html/html5_semantic_elements.asp
 
